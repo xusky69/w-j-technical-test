@@ -10,7 +10,7 @@ Here you will find a total of six jupyter notebooks
 - Prueba_técnica_W_&_J_parte_5.ipynb 
 - Prueba_técnica_W_&_J_parte_6.ipynb 
 
-Each one corresponding to a challenge of the technical test assigned to me during my application to the ML Engineer vacant. Finally
+Each one corresponding to a challenge of the technical test assigned to me during my application to the ML Engineer vacant. The jupyter notebooks are designed to run on a google Colab environment. Finally
 
 - W&J slides.pptx
 
